@@ -1,0 +1,14 @@
+[2022-08-29 15:56:25.816] [remoteagent] [info] Extension host agent started.
+[2022-08-29 15:56:25.997] [remoteagent] [info] [127.0.0.1][233fc293][ManagementConnection] New connection established.
+[2022-08-29 15:56:26.389] [remoteagent] [info] [127.0.0.1][b35cef23][ExtensionHostConnection] New connection established.
+[2022-08-29 15:56:26.392] [remoteagent] [info] [127.0.0.1][b35cef23][ExtensionHostConnection] <28655> Launched Extension Host Process.
+[2022-08-29 18:52:30.836] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-08-29 18:52:30.979] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-08-29 18:52:31.361] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/adamjones/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-08-29 18:52:32.102] [remoteagent] [info] Extracted extension to /home/adamjones/.vscode-server/extensions/.a9cd6637-c141-4c6a-afe6-4c2218b352ae: ritwickdey.liveserver
+[2022-08-29 18:52:32.107] [remoteagent] [info] Renamed to /home/adamjones/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-08-29 18:52:32.108] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-08-29 18:52:32.109] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-08-29 21:46:32.053] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-30 07:11:28.956] [remoteagent] [info] [127.0.0.1][b35cef23][ExtensionHostConnection] The client has reconnected.
+[2022-08-30 07:12:13.780] [remoteagent] [info] [127.0.0.1][233fc293][ManagementConnection] The client has reconnected.

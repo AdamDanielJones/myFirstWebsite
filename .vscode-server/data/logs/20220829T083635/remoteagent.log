@@ -1,0 +1,9 @@
+[2022-08-29 08:36:35.317] [remoteagent] [info] Extension host agent started.
+[2022-08-29 08:36:35.465] [remoteagent] [info] [127.0.0.1][2b443bb0][ManagementConnection] New connection established.
+[2022-08-29 08:36:35.904] [remoteagent] [info] [127.0.0.1][308e8734][ExtensionHostConnection] New connection established.
+[2022-08-29 08:36:35.913] [remoteagent] [info] [127.0.0.1][308e8734][ExtensionHostConnection] <12595> Launched Extension Host Process.
+[2022-08-29 10:41:47.155] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-08-29 11:08:44.281] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/adamjones)
+[2022-08-29 11:08:44.281] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-08-29 11:25:03.485] [remoteagent] [info] [127.0.0.1][2b443bb0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-29 11:25:03.508] [remoteagent] [info] [127.0.0.1][308e8734][ExtensionHostConnection] <12595> Extension Host Process exited with code: 0, signal: null.

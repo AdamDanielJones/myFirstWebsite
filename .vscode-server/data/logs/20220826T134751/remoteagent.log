@@ -1,0 +1,26 @@
+[2022-08-26 13:47:51.319] [remoteagent] [info] Extension host agent started.
+[2022-08-26 13:47:51.500] [remoteagent] [info] [127.0.0.1][4d3bb480][ManagementConnection] New connection established.
+[2022-08-26 13:47:51.594] [remoteagent] [info] [127.0.0.1][037ada27][ExtensionHostConnection] New connection established.
+[2022-08-26 13:47:51.628] [remoteagent] [info] [127.0.0.1][037ada27][ExtensionHostConnection] <4222> Launched Extension Host Process.
+[2022-08-26 13:57:39.916] [remoteagent] [info] [127.0.0.1][93e26061][ManagementConnection] New connection established.
+[2022-08-26 13:57:40.233] [remoteagent] [info] [127.0.0.1][ae2c4894][ExtensionHostConnection] New connection established.
+[2022-08-26 13:57:40.239] [remoteagent] [info] [127.0.0.1][ae2c4894][ExtensionHostConnection] <4359> Launched Extension Host Process.
+[2022-08-26 14:00:17.652] [remoteagent] [info] [127.0.0.1][93e26061][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-26 14:00:17.660] [remoteagent] [info] [127.0.0.1][ae2c4894][ExtensionHostConnection] <4359> Extension Host Process exited with code: 0, signal: null.
+[2022-08-26 14:02:21.967] [remoteagent] [info] [127.0.0.1][4d3bb480][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-08-26 14:02:21.980] [remoteagent] [info] [127.0.0.1][037ada27][ExtensionHostConnection] <4222> Extension Host Process exited with code: 0, signal: null.
+[2022-08-26 14:02:23.016] [remoteagent] [info] [127.0.0.1][f8ab946e][ManagementConnection] New connection established.
+[2022-08-26 14:02:23.338] [remoteagent] [info] [127.0.0.1][183805d0][ExtensionHostConnection] New connection established.
+[2022-08-26 14:02:23.340] [remoteagent] [info] [127.0.0.1][183805d0][ExtensionHostConnection] <4673> Launched Extension Host Process.
+[2022-08-26 14:05:28.298] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/adamjones)
+[2022-08-26 14:05:28.298] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-08-26 14:17:29.797] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-08-26 19:14:53.806] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/adamjones/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:390:28)
+[2022-08-26 19:14:53.808] [remoteagent] [info] [127.0.0.1][f8ab946e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-26 22:14:58.103] [remoteagent] [info] [127.0.0.1][183805d0][ExtensionHostConnection] <4673> Extension Host Process exited with code: 0, signal: null.
+[2022-08-26 22:14:58.662] [remoteagent] [info] [127.0.0.1][f8ab946e][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-08-28 20:58:01.697] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-29 18:52:32.372] [remoteagent] [info] Detected extension installed from another source ritwickdey.liveserver
+[2022-08-29 21:46:32.057] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

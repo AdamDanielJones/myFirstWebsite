@@ -1,0 +1,33 @@
+[2022-08-29 15:37:22.939] [exthost] [info] Extension host with pid 27806 started
+[2022-08-29 15:37:22.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-29 15:37:22.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-29 15:37:22.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-29 15:37:22.977] [exthost] [info] Lock '/home/adamjones/.vscode-server/data/User/workspaceStorage/257b068fcb3d78c9d6cc73b980d8aefa/vscode.lock': Lock acquired.
+[2022-08-29 15:37:23.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-29 15:37:23.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-29 15:37:23.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 15:37:23.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-29 15:37:23.183] [exthost] [info] Eager extensions activated
+[2022-08-29 15:37:23.256] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1958
+[2022-08-29 15:37:23.642] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1958
+[2022-08-29 15:37:27.246] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:37:33.257] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:36.623] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/adamjones/mcsp/javascript-koans/jasmine' is in submodule 'mcsp/javascript-koans'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-29 15:37:38.303] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:37:43.347] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:37:48.397] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:37:53.446] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:38:30.012] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:38:35.063] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:38:54.830] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:43:52.395] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1959
+[2022-08-29 15:43:57.174] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-29 15:43:57.174] [exthost] [info] Lock '/home/adamjones/.vscode-server/data/User/workspaceStorage/257b068fcb3d78c9d6cc73b980d8aefa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-29 15:43:57.179] [exthost] [info] Extension host with pid 27806 exiting with code 0

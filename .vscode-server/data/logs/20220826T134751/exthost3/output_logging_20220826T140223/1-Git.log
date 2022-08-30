@@ -1,0 +1,45 @@
+[2022-08-26T18:02:25.229Z] Log level: Info
+[2022-08-26T18:02:25.232Z] [info] Validating found git in: git
+[2022-08-26T18:02:25.247Z] [info] Using git 2.25.1 from git
+[2022-08-26T18:02:25.257Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-26T18:02:25.257Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.265Z] > git rev-parse --show-toplevel [4ms]
+[2022-08-26T18:02:25.265Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.269Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:02:25.269Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.275Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:02:25.275Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.281Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:02:25.281Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.286Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:02:25.288Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-08-26T18:02:25.293Z] [info] Open repository: /home/adamjones/.nvm
+[2022-08-26T18:02:25.305Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:02:25.305Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.312Z] > git status -z -uall [15ms]
+[2022-08-26T18:02:25.317Z] > git rev-parse --show-toplevel [6ms]
+[2022-08-26T18:02:25.317Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.324Z] > git symbolic-ref --short HEAD [7ms]
+[2022-08-26T18:02:25.324Z] fatal: ref HEAD is not a symbolic ref
+[2022-08-26T18:02:25.329Z] > git rev-parse --show-toplevel [8ms]
+[2022-08-26T18:02:25.329Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.336Z] > git rev-parse HEAD [8ms]
+[2022-08-26T18:02:25.345Z] > git remote --verbose [1ms]
+[2022-08-26T18:02:25.345Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-08-26T18:02:25.347Z] > git rev-parse --show-toplevel [13ms]
+[2022-08-26T18:02:25.347Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:02:25.350Z] > git config --get commit.template [1ms]
+[2022-08-26T18:02:25.358Z] > git status -z -uall [5ms]
+[2022-08-26T18:02:25.361Z] > git symbolic-ref --short HEAD [1ms]
+[2022-08-26T18:02:25.361Z] fatal: ref HEAD is not a symbolic ref
+[2022-08-26T18:02:25.363Z] > git rev-parse HEAD [1ms]
+[2022-08-26T18:02:25.366Z] > git remote --verbose [1ms]
+[2022-08-26T18:02:25.366Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+[2022-08-26T18:02:25.369Z] > git config --get commit.template [1ms]
+[2022-08-26T18:02:25.826Z] > git check-ignore -v -z --stdin [1ms]
+[2022-08-26T18:05:45.553Z] > git rev-parse --show-toplevel [2ms]
+[2022-08-26T18:05:45.553Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:13:29.955Z] > git rev-parse --show-toplevel [2ms]
+[2022-08-26T18:13:29.955Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-08-26T18:15:01.898Z] > git rev-parse --show-toplevel [1ms]
+[2022-08-26T18:15:01.898Z] fatal: not a git repository (or any of the parent directories): .git
