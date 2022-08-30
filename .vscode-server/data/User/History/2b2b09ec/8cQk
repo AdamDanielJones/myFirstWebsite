@@ -1,0 +1,24 @@
+JS code complete
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   mcsp/mcsp-guessing-game-1/app.js
+#	new file:   mcsp/mcsp-guessing-game-1/readme.md
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/User/History/74c30c99/entries.json
+#	deleted:    .vscode-server/data/User/History/74c30c99/v6gw.js
+#	modified:   .vscode-server/data/logs/20220829T155625/exthost1/exthost.log
+#	modified:   .vscode-server/data/logs/20220829T155625/exthost1/output_logging_20220829T155626/1-Git.log
+#	modified:   mcsp/javascript-koans (modified content)
+#
+# Untracked files:
+#	.gitconfig
+#	.vscode-server/data/User/History/5ac24e94/
+#	.vscode-server/data/User/History/74c30c99/gnUJ.js
+#	javascript-koans/
+#	mcsp/mcsp-guessing-game-1/index.html
+#	mcsp/mcsp-guessing-game-1/style.css
+#

@@ -32,3 +32,4 @@
 [Debug 19:42:39.786] MdFoldingProvider: provideFoldingRanges - file:///home/adamjones/mcsp/mcsp-guessing-game-1/readme.md
 [Debug 19:49:29.379] MdFoldingProvider: provideFoldingRanges - file:///home/adamjones/mcsp/mcsp-guessing-game-1/readme.md
 [Debug 20:01:58.890] MdFoldingProvider: provideFoldingRanges - file:///home/adamjones/mcsp/mcsp-guessing-game-1/readme.md
+[Trace 22:58:15.533] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/adamjones/mcsp/mcsp-guessing-game-1/readme.md
